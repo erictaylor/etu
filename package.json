@@ -1,0 +1,33 @@
+{
+  "name": "etu",
+  "version": "0.1.0",
+  "description": "Primitives to build simple, flexible, WAI-ARIA compliant React date, datetime, time and date range picker components.",
+  "main": "dist/etu.cjs.js",
+  "module": "dist/etu.esm.js",
+  "typings": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erictaylor/etu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/erictaylor/etu/issues"
+  },
+  "author": "Eric Taylor <eric@daxos.com>",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "date",
+    "datetime",
+    "time",
+    "daterange",
+    "date picker",
+    "datetime picker",
+    "time picker",
+    "daterange picker",
+    "accessibility",
+    "WAI-ARIA"
+  ],
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  }
+}
